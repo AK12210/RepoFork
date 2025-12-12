@@ -63,8 +63,8 @@ git push origin feature/your-feature-name
 
 2.  Open a PR to **main**
 3.  Include:
-    -   What the change does\
-    -   Why it's needed\
+    -   What the change does
+    -   Why it's needed
     -   Screenshots (if applicable)
 
 ## Community Expectations
