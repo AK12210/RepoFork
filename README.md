@@ -50,3 +50,4 @@ Open [http://localhost:9002](http://localhost:9002) with your browser to see the
 - [Lucide React](https://lucide.dev/) - Icons
 - [TypeScript](https://www.typescriptlang.org/) - Language
 
+This project is owned by me, AK12210
